@@ -1,1 +1,2 @@
-cfxcfghjklpljhgfz
+Welcome to dl lab
+Implementation of RNN text classification
